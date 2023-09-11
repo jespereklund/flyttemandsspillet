@@ -1,0 +1,89 @@
+body {
+    background-color: #111111;
+    overscroll-behavior-y: contain;
+}
+
+ul, li {
+    margin: 0, 0; padding: 0;
+    margin-top: 16px;
+}
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    _border: 1px solid yellow;
+    width: 340px;
+}
+.p-btn {
+    display: flex;
+    justify-content: center;
+    text-align:right;
+    align-items: center;
+    border-radius: 8px;
+    margin: 0;
+    padding: 0;
+    color: orange;
+    _border: 1px solid blue;
+    height: 28px;
+    width: 45px;
+}
+.div-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    margin: 0px;
+    padding: 0;
+}
+.button-gamenr {
+    width: 33px;
+    background-color: #222222;
+    border: 1px solid #00aa00;
+    border-radius: 8px;
+    color: #00ee00;
+    padding: 0;
+    font-size:16px;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 2;
+    padding: 0;
+    height: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    _font-weight: bold;
+}
+
+.thick {
+    border: 1px solid #dd0000;
+    background-color: #222222;
+    box-sizing: border-box;
+}
+
+.solved {
+    color: #007700;
+}
+
+#ul-bar {
+    width: 370px;
+}
+
+#canvas {
+    _background-color: #222222;
+}
+
+h1 {
+    color: #999900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 33;
+    margin: 0;
+    padding: 0;
+    width: 360px;
+    text-align: center;
+}
