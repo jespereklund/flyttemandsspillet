@@ -6,4 +6,4 @@ There are 40 tracks and the score (lowest moves) is kept in local storage.
 
 Written in vanilla JavaScript using HTML Canvas.
 
-you can try it here: [https://flettedehvaler.dk/flyttemandsspillet/](flettedehvaler.dk/flyttemandsspillet/)
+you can try it here: [flettedehvaler.dk/flyttemandsspillet/](flettedehvaler.dk/flyttemandsspillet/)
